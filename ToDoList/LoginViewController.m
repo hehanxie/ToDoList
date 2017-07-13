@@ -68,11 +68,12 @@ extern NSMutableDictionary *accountInfo;
             [alert addAction:[UIAlertAction actionWithTitle:@"OK" style:UIAlertActionStyleDefault handler:nil]];
             [self presentViewController:alert animated:true completion:nil];
         }
-        //密码不匹配
+        //用户名，密码匹配
         else if ([pass isEqualToString:password])
         {
-            isError = true;
+            isError = false;
             //NSLog(@"infor correct");
+            //跳到下一个页面
             [self performSegueWithIdentifier:@"ToDoListView" sender:self];
         }
         else
