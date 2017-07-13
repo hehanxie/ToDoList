@@ -48,6 +48,10 @@ extern NSMutableDictionary *accountInfo;
     _imageView.layer.cornerRadius = 112.5;
     _imageView.layer.borderColor = [[UIColor grayColor] CGColor];
     
+    _usernameTextField.clearButtonMode = UITextFieldViewModeWhileEditing;
+    _passwordTextField.clearButtonMode = UITextFieldViewModeWhileEditing;
+    _passwordRepeatTextField.clearButtonMode = UITextFieldViewModeWhileEditing;
+    
     [[NSNotificationCenter defaultCenter] addObserver:self
                                              selector:@selector(keyboardWillShow:)
                                                  name:UIKeyboardWillShowNotification
@@ -154,7 +158,7 @@ extern NSMutableDictionary *accountInfo;
     CGRect keyboardRect = [aValue CGRectValue];
     float keyboardHeight = keyboardRect.size.height;
     spacingWithKeyboardAndCursor = keyboardHeight - cursorHeight + 20;
-    NSLog(@"%0.1f", spacingWithKeyboardAndCursor);
+//    NSLog(@"%0.1f", spacingWithKeyboardAndCursor);
     if (spacingWithKeyboardAndCursor > 0)
     {
         [UIView animateWithDuration:1.0f animations:^{
