@@ -24,7 +24,7 @@
                                 <rect key="frame" x="0.0" y="28" width="375" height="49"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Xkk-MH-cYT" id="t1Y-XL-0r2">
-                                    <rect key="frame" x="0.0" y="0.0" width="375" height="49"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="48.5"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                 </tableViewCellContentView>
                             </tableViewCell>
@@ -32,7 +32,7 @@
                                 <rect key="frame" x="0.0" y="77" width="375" height="49"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="GdD-hs-TQo" id="gWW-68-fIf">
-                                    <rect key="frame" x="0.0" y="0.0" width="375" height="49"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="48.5"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" text="1" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="X1k-uh-4XR">
@@ -49,7 +49,7 @@
                                 <rect key="frame" x="0.0" y="126" width="375" height="49"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="sP6-m6-eTS" id="vng-C2-VBZ">
-                                    <rect key="frame" x="0.0" y="0.0" width="375" height="49"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="48.5"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" text="2" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="Ldz-22-NIw">
@@ -66,7 +66,7 @@
                                 <rect key="frame" x="0.0" y="175" width="375" height="49"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="N8W-4i-2mp" id="htT-St-pT1">
-                                    <rect key="frame" x="0.0" y="0.0" width="375" height="49"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="48.5"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" text="3" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="fMN-El-mK5">
@@ -83,7 +83,7 @@
                                 <rect key="frame" x="0.0" y="224" width="375" height="49"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="WTJ-g5-sob" id="uyr-ma-hcA">
-                                    <rect key="frame" x="0.0" y="0.0" width="375" height="49"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="48.5"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" text="4" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="k61-B6-sU7">
@@ -100,7 +100,7 @@
                                 <rect key="frame" x="0.0" y="273" width="375" height="49"/>
                                 <autoresizingMask key="autoresizingMask"/>
                                 <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="Y56-zk-4cb" id="hED-jO-nBX">
-                                    <rect key="frame" x="0.0" y="0.0" width="375" height="49"/>
+                                    <rect key="frame" x="0.0" y="0.0" width="375" height="48.5"/>
                                     <autoresizingMask key="autoresizingMask"/>
                                     <subviews>
                                         <label opaque="NO" multipleTouchEnabled="YES" contentMode="left" text="5" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="7Ny-Sl-TyZ">
@@ -214,24 +214,6 @@
             </objects>
             <point key="canvasLocation" x="-110" y="172"/>
         </scene>
-        <!--View Controller-->
-        <scene sceneID="mue-9V-6JC">
-            <objects>
-                <viewController id="LWL-BV-DvE" sceneMemberID="viewController">
-                    <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="531-wk-tF5"/>
-                        <viewControllerLayoutGuide type="bottom" id="fLS-5a-LFn"/>
-                    </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="eEg-wu-8y3">
-                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                    </view>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="nMb-wS-MKB" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="-30" y="988"/>
-        </scene>
         <!--Register View Controller-->
         <scene sceneID="Am7-5f-h4l">
             <objects>
@@ -280,15 +262,6 @@
                                     <action selector="textFieldEditingDidBegin:" destination="flx-HS-4l8" eventType="editingDidBegin" id="M1e-qN-GOA"/>
                                 </connections>
                             </textField>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ipg-vz-DG0">
-                                <rect key="frame" x="212" y="526" width="100" height="45"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" name=".SFNSDisplay" family=".SF NS Display" pointSize="18"/>
-                                <state key="normal" title="CONFIRM"/>
-                                <connections>
-                                    <action selector="confirmRegisterButton:" destination="flx-HS-4l8" eventType="touchUpInside" id="rxC-lQ-K1H"/>
-                                </connections>
-                            </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Password:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CpM-fU-ark">
                                 <rect key="frame" x="62" y="452" width="100" height="35"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -308,7 +281,7 @@
                                 </connections>
                             </textField>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="AR1-i4-eWL">
-                                <rect key="frame" x="62" y="526" width="100" height="45"/>
+                                <rect key="frame" x="234" y="574" width="78" height="32"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" name=".SFNSDisplay" family=".SF NS Display" pointSize="18"/>
                                 <state key="normal" title="CANCEL"/>
@@ -328,6 +301,18 @@
                                 <color key="textColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ipg-vz-DG0">
+                                <rect key="frame" x="62" y="511" width="250" height="45"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <fontDescription key="fontDescription" name=".SFNSDisplay" family=".SF NS Display" pointSize="18"/>
+                                <state key="normal" title="CONFIRM">
+                                    <color key="titleColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="confirmRegisterButton:" destination="flx-HS-4l8" eventType="touchUpInside" id="rxC-lQ-K1H"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
@@ -343,7 +328,7 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="nrJ-HZ-I6P" userLabel="First Responder" sceneMemberID="firstResponder"/>
                 <exit id="j4e-ht-Ty6" userLabel="Exit" sceneMemberID="exit"/>
             </objects>
-            <point key="canvasLocation" x="-922.39999999999998" y="1083.5082458770617"/>
+            <point key="canvasLocation" x="-922" y="983"/>
         </scene>
         <!--Login View Controller-->
         <scene sceneID="BH3-hz-W0U">
@@ -358,10 +343,13 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="18W-1c-JFr">
-                                <rect key="frame" x="70" y="465" width="263" height="45"/>
+                                <rect key="frame" x="24" y="455" width="335" height="35"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <fontDescription key="fontDescription" name=".SFNSDisplay" family=".SF NS Display" pointSize="22"/>
-                                <state key="normal" title="LOGIN"/>
+                                <state key="normal" title="LOGIN">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
                                 <connections>
                                     <action selector="loginButton:" destination="teR-YI-DZN" eventType="touchUpInside" id="Mw0-M2-sFY"/>
                                 </connections>
@@ -401,16 +389,6 @@
                                 <rect key="frame" x="24" y="83" width="335" height="214"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
-                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Cf7-Vz-woW">
-                                <rect key="frame" x="70" y="520" width="263" height="45"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" name=".SFNSDisplay" family=".SF NS Display" pointSize="22"/>
-                                <state key="normal" title="REGISTER"/>
-                                <connections>
-                                    <action selector="registerButton:" destination="DOW-VF-jG5" eventType="touchUpInside" id="KAE-io-q2k"/>
-                                    <segue destination="flx-HS-4l8" kind="presentation" modalTransitionStyle="flipHorizontal" id="PbI-ub-1Oc"/>
-                                </connections>
-                            </button>
                             <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="username" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="ews-Ir-DGk">
                                 <rect key="frame" x="191" y="331" width="142" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -421,6 +399,16 @@
                                     <action selector="textFieldDidEndOnExit:" destination="DOW-VF-jG5" eventType="editingDidEndOnExit" id="R5Y-iI-FIw"/>
                                 </connections>
                             </textField>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" showsTouchWhenHighlighted="YES" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Cf7-Vz-woW">
+                                <rect key="frame" x="261" y="508" width="98" height="33"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name=".SFNSDisplay" family=".SF NS Display" pointSize="15"/>
+                                <state key="normal" title="REGISTER"/>
+                                <connections>
+                                    <action selector="registerButton:" destination="DOW-VF-jG5" eventType="touchUpInside" id="KAE-io-q2k"/>
+                                    <segue destination="flx-HS-4l8" kind="presentation" modalTransitionStyle="flipHorizontal" id="PbI-ub-1Oc"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>

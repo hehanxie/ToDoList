@@ -32,10 +32,10 @@ extern NSMutableDictionary *accountInfo;
     _loginButton.layer.cornerRadius = 10.0;
     _loginButton.layer.borderColor = [[UIColor grayColor] CGColor];
     
-    _registerButton.layer.masksToBounds = YES;
-    _registerButton.layer.borderWidth = 1;
-    _registerButton.layer.cornerRadius = 10.0;
-    _registerButton.layer.borderColor = [[UIColor grayColor] CGColor];
+//    _registerButton.layer.masksToBounds = YES;
+//    _registerButton.layer.borderWidth = 1;
+//    _registerButton.layer.cornerRadius = 10.0;
+//    _registerButton.layer.borderColor = [[UIColor grayColor] CGColor];
     
     //右侧清除按钮
     _usernameTextField.clearButtonMode = UITextFieldViewModeWhileEditing;

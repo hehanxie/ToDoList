@@ -33,10 +33,10 @@ extern NSMutableDictionary *accountInfo;
 {
     // Do any additional setup after loading the view.
     [super viewDidLoad];
-    _cancelButton.layer.masksToBounds = YES;
-    _cancelButton.layer.borderWidth = 1;
-    _cancelButton.layer.cornerRadius = 10.0;
-    _cancelButton.layer.borderColor = [[UIColor grayColor] CGColor];
+//    _cancelButton.layer.masksToBounds = YES;
+//    _cancelButton.layer.borderWidth = 1;
+//    _cancelButton.layer.cornerRadius = 10.0;
+//    _cancelButton.layer.borderColor = [[UIColor grayColor] CGColor];
     
     _confirmButton.layer.masksToBounds = YES;
     _confirmButton.layer.borderWidth = 1;
